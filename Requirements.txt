@@ -1,0 +1,13 @@
+nltk
+rouge-score
+scikit-learn
+torch
+torchvision
+torchaudio
+git+https://github.com/huggingface/transformers@main
+pandas
+tqdm
+peft
+stag==1.1.1
+scikit-image
+networkx
