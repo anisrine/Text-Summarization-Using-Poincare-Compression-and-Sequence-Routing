@@ -4,6 +4,9 @@
 This project to perform text summarization on Amazon review dataset using Poincare compression and sequence routing. The proposed model has been Parameter Efficient Fine tuned using LoRA.
 The ROUGE scores were competetive in a low resource setting.
 
+![Model](https://github.com/user-attachments/assets/cb6504c2-f2e7-466f-b7a1-a60207bb5de3)
+
+
 # <h2>Dataset</h2>
 Amazon review dataset consists of millions of reviews. We sampled 130 reviews for the training and 73 for testing. We have annotated sentences as relevant or nor for the summary using semantic similarity and Rouge L scores.
 
