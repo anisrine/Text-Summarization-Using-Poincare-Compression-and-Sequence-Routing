@@ -1,10 +1,11 @@
 # Text Summarization Using Poincare Compression and Sequence Routing in Low Resource Setting
 
-# <h2>Overview</h2>
+ <h2>Overview</h2>
 This project to perform text summarization on Amazon review dataset using Poincare compression and sequence routing. The proposed model has been Parameter Efficient Fine tuned using LoRA.
 The ROUGE scores were competetive in a low resource setting.
 
-![Model](https://github.com/user-attachments/assets/cb6504c2-f2e7-466f-b7a1-a60207bb5de3)
+![Model](https://github.com/user-attachments/assets/495a24d4-7981-4ca1-8ad8-79170661bb09)
+
 
 
 # <h2>Dataset</h2>
