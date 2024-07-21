@@ -192,7 +192,7 @@ def train(model, train_data,val_data,learning_rate, epochs, mode_name):
     torch.save(model.state_dict(),model_name)
 
 #training
-train(model, df_train[:792],df_test[:58], LR, EPOCHS,model_name)
+train(model, df_train,df_test, LR, EPOCHS,model_name)
 
 
                 
